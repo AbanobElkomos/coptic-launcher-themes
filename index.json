@@ -16,6 +16,22 @@
       "download": "themes/desert-night.zip",
       "preview": "previews/desert-night.webp",
       "size": 15874
+    },
+    {
+      "id": "christmas",
+      "version": 1,
+      "name": {
+        "en": "Christmas",
+        "ar": "كريسماس 1"
+      },
+      "author": "Coptic Launcher",
+      "layout": "Ornate",
+      "day": true,
+      "accent": "#E9B44C",
+      "background": "#1C090D",
+      "download": "themes/christmas.zip",
+      "preview": "previews/christmas.webp",
+      "size": 19265
     }
   ]
 }

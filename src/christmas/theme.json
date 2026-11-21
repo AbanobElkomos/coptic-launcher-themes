@@ -1,0 +1,36 @@
+{
+  "format": 1,
+  "id": "christmas",
+  "version": 1,
+  "name": {
+    "en": "Christmas",
+    "ar": "كريسماس 1"
+  },
+  "author": "Coptic Launcher",
+  "layout": "Ornate",
+  "header": "header.webp",
+  "dark": {
+    "background": "#1C090D",
+    "surface": "#2B0E14",
+    "surfaceRaised": "#3B141B",
+    "outline": "#6B2A33",
+    "accent": "#E9B44C",
+    "onBackground": "#FBF1E4",
+    "onSurfaceMuted": "#D8B8AC",
+    "panelDeep": "#4A0E17",
+    "ornamentLight": "#F8DE9C",
+    "ornamentDark": "#8C5A1A"
+  },
+  "day": {
+    "background": "#F3F6FA",
+    "surface": "#E7EDF5",
+    "surfaceRaised": "#DAE3EE",
+    "outline": "#A9BBCF",
+    "accent": "#8C1016",
+    "onBackground": "#14202E",
+    "onSurfaceMuted": "#475A6E",
+    "panelDeep": "#CFDBE8",
+    "ornamentLight": "#E8C36A",
+    "ornamentDark": "#7A1016"
+  }
+}
