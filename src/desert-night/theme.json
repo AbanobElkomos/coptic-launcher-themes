@@ -1,0 +1,36 @@
+{
+  "format": 1,
+  "id": "desert-night",
+  "version": 1,
+  "name": {
+    "en": "Desert Night",
+    "ar": "ليل الصحراء"
+  },
+  "author": "Coptic Launcher",
+  "layout": "Ornate",
+  "header": "header.webp",
+  "dark": {
+    "background": "#120C08",
+    "surface": "#1E150E",
+    "surfaceRaised": "#2C1F14",
+    "outline": "#6B4E2E",
+    "accent": "#E8A04C",
+    "onBackground": "#F6EBD9",
+    "onSurfaceMuted": "#C4AE8F",
+    "panelDeep": "#3A1E10",
+    "ornamentLight": "#FFD9A0",
+    "ornamentDark": "#8A5A22"
+  },
+  "day": {
+    "background": "#F4EBDD",
+    "surface": "#FBF6EE",
+    "surfaceRaised": "#EFE3D0",
+    "outline": "#C9B394",
+    "accent": "#A3561C",
+    "onBackground": "#2A1C10",
+    "onSurfaceMuted": "#6E5A44",
+    "panelDeep": "#E6D3B8",
+    "ornamentLight": "#FFFFFF",
+    "ornamentDark": "#B88A5A"
+  }
+}

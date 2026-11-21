@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "themes": [
+    {
+      "id": "desert-night",
+      "version": 1,
+      "name": {
+        "en": "Desert Night",
+        "ar": "ليل الصحراء"
+      },
+      "author": "Coptic Launcher",
+      "layout": "Ornate",
+      "day": true,
+      "accent": "#E8A04C",
+      "background": "#120C08",
+      "download": "themes/desert-night.zip",
+      "preview": "previews/desert-night.webp",
+      "size": 15874
+    }
+  ]
+}
