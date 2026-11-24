@@ -1,0 +1,18 @@
+{
+  "format": 1,
+  "id": "coptic-clock",
+  "version": 1,
+  "name": {
+    "en": "Coptic clock",
+    "ar": "الساعة القبطية"
+  },
+  "author": "Coptic Launcher",
+  "kind": "skin",
+  "skin": {
+    "for": "Clock",
+    "image": "face.webp",
+    "needle": "#3A1E10",
+    "ticks": "#B3261E",
+    "seconds": true
+  }
+}

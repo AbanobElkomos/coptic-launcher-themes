@@ -1,0 +1,17 @@
+{
+  "format": 1,
+  "id": "landscapes",
+  "version": 1,
+  "name": {
+    "en": "Landscapes slideshow",
+    "ar": "عرض مناظر طبيعية"
+  },
+  "author": "Coptic Launcher",
+  "kind": "picture",
+  "images": [
+    "desert.webp",
+    "sea.webp",
+    "hills.webp"
+  ],
+  "interval": 10
+}

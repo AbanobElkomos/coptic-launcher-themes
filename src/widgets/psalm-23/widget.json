@@ -1,0 +1,23 @@
+{
+  "format": 1,
+  "id": "psalm-23",
+  "version": 1,
+  "name": {
+    "en": "Psalm 23 card",
+    "ar": "كارت مزمور 23"
+  },
+  "author": "Coptic Launcher",
+  "kind": "text",
+  "title": {
+    "en": "Psalm 23:1",
+    "ar": "مزمور 23: 1"
+  },
+  "body": {
+    "en": "The Lord is my shepherd; I shall not want.",
+    "ar": "الرب راعيّ فلا يعوزني شيء."
+  },
+  "image": "cross.webp",
+  "background": "#2A1710",
+  "text": "#F6EBD9",
+  "accent": "#E5AA50"
+}

@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "widgets": [
+    {
+      "id": "gold-dial",
+      "version": 1,
+      "name": {
+        "en": "Gold dial",
+        "ar": "العداد الذهبي"
+      },
+      "author": "Coptic Launcher",
+      "kind": "skin",
+      "download": "widgets/gold-dial.zip",
+      "preview": "widget-previews/gold-dial.webp",
+      "size": 46743
+    },
+    {
+      "id": "coptic-clock",
+      "version": 1,
+      "name": {
+        "en": "Coptic clock",
+        "ar": "الساعة القبطية"
+      },
+      "author": "Coptic Launcher",
+      "kind": "skin",
+      "download": "widgets/coptic-clock.zip",
+      "preview": "widget-previews/coptic-clock.webp",
+      "size": 39895
+    },
+    {
+      "id": "landscapes",
+      "version": 1,
+      "name": {
+        "en": "Landscapes slideshow",
+        "ar": "عرض مناظر طبيعية"
+      },
+      "author": "Coptic Launcher",
+      "kind": "picture",
+      "download": "widgets/landscapes.zip",
+      "preview": "widget-previews/landscapes.webp",
+      "size": 18743
+    },
+    {
+      "id": "psalm-23",
+      "version": 1,
+      "name": {
+        "en": "Psalm 23 card",
+        "ar": "كارت مزمور 23"
+      },
+      "author": "Coptic Launcher",
+      "kind": "text",
+      "download": "widgets/psalm-23.zip",
+      "preview": "widget-previews/psalm-23.webp",
+      "size": 4842
+    }
+  ]
+}

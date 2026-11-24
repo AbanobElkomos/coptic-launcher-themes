@@ -22,3 +22,10 @@ Theme store for [Coptic Launcher](https://github.com/AbanobElkomos). The app rea
 Full format: `planning/THEME_STORE.md` in the app project.
 
 Paid themes must **not** be uploaded here: anything in a public repository can be downloaded by anyone.
+
+## Widget store
+
+`widgets.json` (same format as `index.json`, list called `"widgets"`) lists widget packages: `.zip` files in
+`widgets/` with `widget.json` + images, previews in `widget-previews/`, sources in `src/widgets/`.
+Kinds: `skin` (speedometer / clock look), `picture` (picture or slideshow), `text` (text card).
+Full format: `planning/WIDGET_STORE.md` in the app project.

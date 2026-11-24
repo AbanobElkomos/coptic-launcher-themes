@@ -1,0 +1,17 @@
+{
+  "format": 1,
+  "id": "gold-dial",
+  "version": 1,
+  "name": {
+    "en": "Gold dial",
+    "ar": "العداد الذهبي"
+  },
+  "author": "Coptic Launcher",
+  "kind": "skin",
+  "skin": {
+    "for": "Speedometer",
+    "image": "dial.webp",
+    "needle": "#E5484D",
+    "text": "#F6E2B4"
+  }
+}
