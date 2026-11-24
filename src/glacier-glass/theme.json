@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "id": "glacier-glass",
+  "version": 1,
+  "name": {
+    "en": "Glacier Glass",
+    "ar": "زجاج الجليد"
+  },
+  "author": "Coptic Launcher",
+  "layout": "Cobalto",
+  "dark": {
+    "background": "#0D1520",
+    "surface": "#17212D",
+    "surfaceRaised": "#212E3C",
+    "outline": "#3A4C5E",
+    "accent": "#3EDFC0",
+    "accentMuted": "#22786A",
+    "onBackground": "#EEF4F8",
+    "onSurfaceMuted": "#A7B7C5",
+    "danger": "#FF5D72",
+    "panelDeep": "#132C35",
+    "ornamentLight": "#B8F5E9",
+    "ornamentDark": "#1C7D6E",
+    "glow": [
+      "#2EC4B6",
+      "#3A6FD8"
+    ]
+  },
+  "day": {
+    "background": "#EDF2F6",
+    "surface": "#F8FAFC",
+    "surfaceRaised": "#E0E8EF",
+    "outline": "#B2C2CF",
+    "accent": "#0A7A6A",
+    "accentMuted": "#7DC2B6",
+    "onBackground": "#0F1B26",
+    "onSurfaceMuted": "#4E6071",
+    "danger": "#C2213F",
+    "panelDeep": "#D2E5E4",
+    "ornamentLight": "#F1FBF8",
+    "ornamentDark": "#2E8E7F",
+    "glow": [
+      "#9FE3D6",
+      "#A9C4F2"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "id": "neon-drive",
+  "version": 1,
+  "name": {
+    "en": "Neon Drive",
+    "ar": "نيون درايف"
+  },
+  "author": "Coptic Launcher",
+  "layout": "Aurora",
+  "dark": {
+    "background": "#110A2B",
+    "surface": "#1C1342",
+    "surfaceRaised": "#291D5A",
+    "outline": "#4A3D88",
+    "accent": "#B57BFF",
+    "accentMuted": "#5E3FA0",
+    "onBackground": "#F3F0FF",
+    "onSurfaceMuted": "#B9B0E0",
+    "danger": "#FF9090",
+    "panelDeep": "#231656",
+    "ornamentLight": "#E2CCFF",
+    "ornamentDark": "#5A2DB0",
+    "glow": [
+      "#8A2BE2",
+      "#1FA8FF"
+    ]
+  },
+  "day": {
+    "background": "#F1EFFA",
+    "surface": "#FAF9FE",
+    "surfaceRaised": "#E5E0F6",
+    "outline": "#BCB2E0",
+    "accent": "#6326CF",
+    "accentMuted": "#A98AE6",
+    "onBackground": "#1A1238",
+    "onSurfaceMuted": "#585080",
+    "danger": "#C8204A",
+    "panelDeep": "#DCD3F5",
+    "ornamentLight": "#F3EDFF",
+    "ornamentDark": "#8862D6",
+    "glow": [
+      "#B79EFF",
+      "#86D4FF"
+    ]
+  }
+}
