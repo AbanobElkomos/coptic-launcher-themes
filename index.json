@@ -32,6 +32,38 @@
       "download": "themes/christmas.zip",
       "preview": "previews/christmas.webp",
       "size": 19265
+    },
+    {
+      "id": "neon-drive",
+      "version": 1,
+      "name": {
+        "en": "Neon Drive",
+        "ar": "نيون درايف"
+      },
+      "author": "Coptic Launcher",
+      "layout": "Aurora",
+      "day": true,
+      "accent": "#B57BFF",
+      "background": "#110A2B",
+      "download": "themes/neon-drive.zip",
+      "preview": "previews/neon-drive.webp",
+      "size": 554
+    },
+    {
+      "id": "glacier-glass",
+      "version": 1,
+      "name": {
+        "en": "Glacier Glass",
+        "ar": "زجاج الجليد"
+      },
+      "author": "Coptic Launcher",
+      "layout": "Cobalto",
+      "day": true,
+      "accent": "#3EDFC0",
+      "background": "#0D1520",
+      "download": "themes/glacier-glass.zip",
+      "preview": "previews/glacier-glass.webp",
+      "size": 561
     }
   ]
 }
