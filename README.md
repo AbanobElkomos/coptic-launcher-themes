@@ -23,6 +23,14 @@ Full format: `planning/THEME_STORE.md` in the app project.
 
 Paid themes must **not** be uploaded here: anything in a public repository can be downloaded by anyone.
 
+## Animated / 3D backgrounds
+
+A theme may add an optional `"background"` block: parallax layers (3D depth that follows the tilt
+of the device), falling snow and the user's own photo. Apps that do not support it ignore it.
+Spec: [`docs/ANIMATED_BACKGROUND.md`](docs/ANIMATED_BACKGROUND.md). Example: `src/christmas-live/`.
+Store entries can list `"features"` (`animated-background`, `parallax-3d`, `snow`, `user-photo`) so the
+store can show badges.
+
 ## Widget store
 
 `widgets.json` (same format as `index.json`, list called `"widgets"`) lists widget packages: `.zip` files in

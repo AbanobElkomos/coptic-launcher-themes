@@ -32,6 +32,28 @@
       "download": "themes/christmas.zip",
       "preview": "previews/christmas.webp",
       "size": 19265
+    },
+    {
+      "id": "christmas-live",
+      "version": 1,
+      "name": {
+        "en": "Christmas Live",
+        "ar": "كريسماس 2 (متحرك)"
+      },
+      "author": "Coptic Launcher",
+      "layout": "Ornate",
+      "day": true,
+      "accent": "#F5C86A",
+      "background": "#0B0C22",
+      "features": [
+        "animated-background",
+        "parallax-3d",
+        "snow",
+        "user-photo"
+      ],
+      "download": "themes/christmas-live.zip",
+      "preview": "previews/christmas-live.webp",
+      "size": 131371
     }
   ]
 }
