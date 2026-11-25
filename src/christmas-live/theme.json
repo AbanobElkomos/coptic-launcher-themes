@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "id": "christmas-live",
+  "version": 1,
+  "name": {
+    "en": "Christmas Live",
+    "ar": "كريسماس 2 (متحرك)"
+  },
+  "author": "Coptic Launcher",
+  "layout": "Ornate",
+  "header": "header.webp",
+  "dark": {
+    "background": "#0B0C22",
+    "surface": "#171836",
+    "surfaceRaised": "#22234A",
+    "outline": "#3C3F78",
+    "accent": "#F5C86A",
+    "onBackground": "#F6F1E7",
+    "onSurfaceMuted": "#B9B8D6",
+    "panelDeep": "#10112A",
+    "ornamentLight": "#FFE7A8",
+    "ornamentDark": "#8C5A1A"
+  },
+  "day": {
+    "background": "#EEF2F8",
+    "surface": "#E1E8F2",
+    "surfaceRaised": "#D3DDEB",
+    "outline": "#9FB2CB",
+    "accent": "#2E5B3E",
+    "onBackground": "#152033",
+    "onSurfaceMuted": "#4A5A70",
+    "panelDeep": "#C9D5E6",
+    "ornamentLight": "#E8C36A",
+    "ornamentDark": "#7A1016"
+  },
+  "background": {
+    "type": "parallax",
+    "motion": "tilt",
+    "still": { "dark": "bg-still.webp", "day": "bg-day-still.webp" },
+    "layers": [
+      { "dark": "bg-sky.webp",  "day": "bg-day-sky.webp",  "depth": 0.05 },
+      { "dark": "bg-far.webp",  "day": "bg-day-far.webp",  "depth": 0.2 },
+      { "dark": "bg-mid.webp",  "day": "bg-day-mid.webp",  "depth": 0.45 },
+      { "dark": "bg-near.webp", "day": "bg-day-near.webp", "depth": 0.8 }
+    ],
+    "particles": {
+      "kind": "snow",
+      "count": 90,
+      "speed": 0.6,
+      "size": [1.5, 4.5],
+      "color": "#FFFFFF",
+      "drift": 0.3
+    },
+    "twinkle": true,
+    "userPhoto": {
+      "allowed": true,
+      "keepParticles": true,
+      "dim": 0.25
+    }
+  }
+}
