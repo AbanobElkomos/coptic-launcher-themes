@@ -67,7 +67,7 @@
     },
     {
       "id": "christmas-live",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Christmas Live",
         "ar": "كريسماس 2 (متحرك)"
@@ -85,7 +85,7 @@
       ],
       "download": "themes/christmas-live.zip",
       "preview": "previews/christmas-live.webp",
-      "size": 131371
+      "size": 131373
     }
   ]
 }
